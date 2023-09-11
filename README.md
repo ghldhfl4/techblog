@@ -4,6 +4,7 @@
 - Intelli J
 - JAVA 17
 - spring boot 3.0.6
+- Gradle
 - JPA 3.0.5
 - Maria DB
 - thymeleaf
