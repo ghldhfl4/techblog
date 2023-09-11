@@ -1,4 +1,9 @@
+### 회사 techblog에 활용할 게시판의 기본적이고 간단한 기능들을 구현했습니다.
 
-### 실행방법
-1. server 가동
-2. localhost:8080/board/list로 접속
+### 개발 환경
+- Intelli J
+- JAVA 17
+- spring boot 3.0.6
+- JPA 3.0.5
+- Maria DB
+- thymeleaf
